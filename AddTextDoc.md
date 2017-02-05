@@ -1,3 +1,1 @@
-This is a revised file to experience github with/test it out.
-
-bal hal  blah
+Testing the branching and how oto branch stuff in gitHub
